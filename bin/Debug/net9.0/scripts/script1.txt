@@ -1,0 +1,16 @@
+COLOR:"34"
+TEXT:"The system acknowledges your input. A new directory opens, its name a string of unsettling symbols you can't decipher."
+WAIT:3000
+TEXT:"Within, text files glitch and rewrite themselves. Audio logs play distorted whispers that seem to brush against your mind."
+WAIT:3500
+COLOR:"31"
+TEXT:"A single, unbroken line of red text crawls across the screen:"
+WAIT:2500
+COLOR:"31"
+TEXT:"WE SEE YOU THROUGH THE FRACTURES."
+WAIT:3000
+TEXT:"On the console, a single, pulsating symbol appears: a perfectly round eye- almost like th shape of an 'O', constantly shifting its gaze."
+TEXT:"To proceed, you must trace its outline precisely using keyboard characters."
+EXPECTED_INPUT:"O"
+PROMPT:">> Trace the symbol."
+WAIT:0

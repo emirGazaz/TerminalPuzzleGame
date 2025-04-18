@@ -1,0 +1,21 @@
+COLOR:"34"
+TEXT:"The auditory chaos fades, and your focus shifts to a sequence of abstract symbols that flicker in and out of existence."
+WAIT:4000
+TEXT:"You observe the following sequence:"
+WAIT:4500
+COLOR:"31"
+TEXT:"SYMBOL 1: A circle with a central dot."
+TEXT:"SYMBOL 2: A square with a diagonal line."
+TEXT:"SYMBOL 3: A triangle pointing upwards."
+TEXT:"SYMBOL 4: A circle with a central dot."
+TEXT:"SYMBOL 5: A square with a diagonal line."
+TEXT:"SYMBOL 6: A hexagon."
+TEXT:"SYMBOL 7: A circle with a central dot."
+TEXT:"SYMBOL 8: A square with a diagonal line."
+TEXT:"SYMBOL 9: An octagon."
+TEXT:"SYMBOL 10: A circle with a central dot."
+COLOR:"0"
+TEXT:"The alien thought echoes: 'Identify the symbol that breaks the repeating pattern of the first two elements.'"
+EXPECTED_INPUT:"triangle,hexagon,octagon"
+PROMPT:">> Enter the name of the pattern-breaking symbol."
+WAIT:0

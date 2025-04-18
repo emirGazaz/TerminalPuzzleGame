@@ -1,0 +1,15 @@
+COLOR:"34"
+TEXT:"The principle of stillness hangs in the air as the alien presence presents one final visual test."
+WAIT:4000
+TEXT:"Before you, a complex pattern of interwoven lines appears, subtly shifting and reforming."
+WAIT:4500
+COLOR:"31"
+TEXT:"Imagine three distinct colors of lines: Red, Blue, and Green."
+TEXT:"The pattern predominantly features steady Blue lines."
+TEXT:"Intermittent Red lines briefly disrupt the flow."
+TEXT:"Faint Green lines weave consistently beneath the surface, rarely breaking through."
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the color representing the most consistent, underlying presence within the woven pattern.'"
+EXPECTED_INPUT:"red,blue,green"
+PROMPT:">> Enter the color of the underlying consistency."
+WAIT:0

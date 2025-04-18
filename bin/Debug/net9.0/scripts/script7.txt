@@ -1,0 +1,12 @@
+COLOR:"34"
+TEXT:"The alien thoughts shift, and the digital space around you warps. Familiar structures twist into impossible angles."
+WAIT:4000
+TEXT:"Before you, a series of directional indicators flicker to life:"
+WAIT:4500
+COLOR:"31"
+TEXT:"NORTH (N) - Flickers rapidly = SOUTH (S) - Glows steadily = EAST (E) - Pulses slowly = WEST (W) - Flickers dimly = UP (U) - Glows steadily = DOWN (D) - Pulses rapidly"
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the cardinal direction associated with unwavering stability.'"
+EXPECTED_INPUT:"n,s,e,w,u,d"
+PROMPT:">> Enter the cardinal direction of stability."
+WAIT:0

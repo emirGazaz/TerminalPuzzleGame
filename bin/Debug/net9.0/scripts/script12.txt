@@ -1,0 +1,19 @@
+COLOR:"34"
+TEXT:"The multifaceted symbol fades, replaced by a sequence of numbers that seem to vibrate with an inner energy."
+WAIT:4000
+TEXT:"You observe the following sequence:"
+WAIT:4500
+COLOR:"31"
+TEXT:"3 - resonates with a low hum"
+TEXT:"7 - resonates with a sharp click"
+TEXT:"1 - resonates with a steady tone"
+TEXT:"9 - resonates with a fluctuating pulse"
+TEXT:"5 - resonates with a low hum"
+TEXT:"2 - resonates with a sharp click"
+TEXT:"8 - resonates with a steady tone"
+TEXT:"4 - resonates with a fluctuating pulse"
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the number that resonates with a STEADY tone.'"
+EXPECTED_INPUT:"3,1,7,8,9,2,5,4"
+PROMPT:">> Enter the number with the steady resonance."
+WAIT:0

@@ -1,0 +1,15 @@
+COLOR:"34"
+TEXT:"The spatial distortions subside, replaced by a cacophony of overlapping frequencies. The alien presence tests your ability to isolate a specific resonance."
+WAIT:4000
+TEXT:"You perceive a series of auditory patterns:"
+WAIT:4500
+COLOR:"31"
+TEXT:"PATTERN A: A rapid series of clicks followed by a low hum.
+PATTERN B: A sustained mid-range tone with occasional static bursts.
+PATTERN C: A slow, rhythmic pulse with a faint echo.
+PATTERN D: A high-pitched whine that gradually fades in and out."
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the pattern characterized by a consistent, underlying rhythm.'"
+EXPECTED_INPUT:"a,c,b,d"
+PROMPT:">> Enter the letter of the rhythmic pattern."
+WAIT:0

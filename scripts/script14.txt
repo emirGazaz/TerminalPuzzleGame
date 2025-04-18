@@ -1,0 +1,17 @@
+COLOR:"34"
+TEXT:"The echoing choice fades, and a new sequence of alien symbols unfolds before you."
+WAIT:4000
+TEXT:"You observe the following progression:"
+WAIT:4500
+COLOR:"31"
+TEXT:"Symbol Alpha: Resonates with a single, clear tone."
+TEXT:"Symbol Beta: Flickers with an erratic energy."
+TEXT:"Symbol Gamma: Emits a slow, pulsating light."
+TEXT:"Symbol Delta: Resonates with a single, clear tone."
+TEXT:"Symbol Epsilon: Flickers with an erratic energy."
+TEXT:"Symbol Zeta: Emits a slow, pulsating light."
+TEXT:"Symbol Eta: Resonates with a single, clear tone."
+TEXT:"The alien thought echoes: 'Identify the symbol associated with a CONSISTENT, singular resonance.'"
+EXPECTED_INPUT:"beta,alpha,gamma,epsilon,zeta"
+PROMPT:">> Enter the name of the consistently resonant symbol."
+WAIT:0

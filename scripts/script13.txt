@@ -1,0 +1,18 @@
+COLOR:"34"
+TEXT:"The numerical resonance fades, and a field of static fills your vision."
+WAIT:4000
+TEXT:"Within the static, brief moments of clarity reveal a pattern of missing elements."
+WAIT:4500
+COLOR:"31"
+TEXT:"Imagine a 3x3 grid."
+TEXT:"The following cells briefly flicker into existence:"
+TEXT:"Top-Left"
+TEXT:"Middle-Center"
+TEXT:"Bottom-Right"
+TEXT:"Top-Right"
+TEXT:"Bottom-Left"
+TEXT:"Middle-Left"
+TEXT:"The alien thought echoes: 'Identify the consistently ABSENT cell.'"
+EXPECTED_INPUT:"top-middle,middle-right,bottom-middle"
+PROMPT:">> Enter the name of the consistently absent cell."
+WAIT:0

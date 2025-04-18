@@ -1,0 +1,31 @@
+COLOR:"34"
+TEXT:"As you type the command, the screen flickers, and the distorted figure from the fleeting image solidifies in the digital space before you."
+WAIT:3000
+TEXT:"Its many eyes fix upon you, and the whispers intensify, no longer just in the background but directly in your mind, a chorus of alien intent."
+WAIT:3500
+COLOR:"31"
+TEXT:"The figure extends a long, skeletal limb towards your digital representation. The humming resonates deep within your system."
+WAIT:3000
+TEXT:"A single line of text appears beneath the figure:"
+WAIT:2500
+COLOR:"31"
+TEXT:"YOU ARE SEEN."
+WAIT:4000
+COLOR:"31"
+TEXT:"The spiraling line symbol begins to overlay the figure, and the whispers coalesce into a single, chilling thought directed at you:"
+WAIT:3500
+COLOR:"31"
+TEXT:"WELCOME."
+TEXT:">> The connection deepens."
+COLOR:"31"
+TEXT:"The spiraling lines intensify, crawling across your vision, both on the screen and within your mind."
+WAIT:3000
+TEXT:"The towering figure before you seems to coalesce further, its form shifting in impossible ways."
+WAIT:3500
+COLOR:"34"
+TEXT:"A single, coherent thought pierces the alien whispers: YOU WILL SHOW US THE WAY."
+WAIT:4000
+TEXT:"The command prompt reappears, but this time it's different. It's no longer a suggestion, but a demand."
+EXPECTED_INPUT:"transmit"
+PROMPT:">> You are compelled to type 'transmit'."
+WAIT:0

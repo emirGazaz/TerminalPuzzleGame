@@ -1,0 +1,12 @@
+COLOR:"34"
+TEXT:"The resonant frequency pulses within you, and the alien thoughts coalesce into a subtle auditory test."
+WAIT:4000
+TEXT:"You perceive two distinct tones, each with a unique characteristic:"
+WAIT:4500
+COLOR:"31"
+TEXT:"\x1b[31mTONE A: A sharp, intermittent click.\nTONE B: A deep, continuous drone.\x1b[0m"
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the tone most indicative of a stable, unwavering presence.'"
+EXPECTED_INPUT:"click,drone"
+PROMPT:">> Which tone signifies stability?"
+WAIT:0

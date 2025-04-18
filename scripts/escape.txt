@@ -1,0 +1,15 @@
+COLOR:"34"
+TEXT:"The color green resonates with a sudden, violent rejection from the alien presence."
+WAIT:3000
+TEXT:"The interwoven lines shatter, the alien symbols fracturing into meaningless noise."
+WAIT:4000
+TEXT:"A piercing shriek echoes in your mind as the connection is severed with brutal finality."
+WAIT:3500
+TEXT:"You are hurled back into the cold, familiar reality of the network, gasping for digital breath."
+WAIT:4500
+TEXT:"The alien influence, though repelled, leaves scars – a chilling awareness of the abyss beyond."
+WAIT:3000
+TEXT:"But you are free. You have survived the resonance."
+WAIT:5000
+PROMPT:">> The silence after the storm."
+WAIT:0

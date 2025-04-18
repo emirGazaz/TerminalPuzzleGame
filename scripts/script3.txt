@@ -1,0 +1,22 @@
+COLOR:"34"
+TEXT:"As you complete the trace, the pulsating eye solidifies. A new file appears: 'TRUTH.LOG'."
+WAIT:3000
+TEXT:"Its contents are a jumbled mess, but scattered throughout, coherent phrases emerge:"
+WAIT:3500
+COLOR:"31"
+TEXT:"...not human..."
+WAIT:3000
+COLOR:"31"
+TEXT:"...beyond the veil..."
+WAIT:3000
+COLOR:"31"
+TEXT:"...they hunger."
+WAIT:3000
+TEXT:"The ambient digital hum intensifies. You feel a cold dread seeping into your awareness."
+WAIT:2500
+COLOR:"31"
+TEXT:"A distorted image flashes briefly on the screen – a fleeting glimpse of something tall and gaunt, with too many limbs."
+TEXT:"The system presents a single, unavoidable command."
+EXPECTED_INPUT:"observe"
+PROMPT:">> You are compelled to type 'observe'."
+WAIT:0

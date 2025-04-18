@@ -1,0 +1,12 @@
+COLOR:"34"
+TEXT:"The resonant frequency continues to permeate your awareness, and the alien presence tests your ability to align with its patterns."
+WAIT:4000
+TEXT:"A series of shifting geometric shapes appears before you, each accompanied by a subtle change in the underlying hum."
+WAIT:4500
+COLOR:"31"
+TEXT:"\x1b[31mSHAPE 1: A rotating cube (hum fluctuates slightly).\nSHAPE 2: A static sphere (hum remains constant).\nSHAPE 3: A collapsing pyramid (hum fades intermittently).\nSHAPE 4: An expanding octahedron (hum increases steadily).\x1b[0m"
+WAIT:5000
+TEXT:"The alien thought echoes: 'Identify the shape that resonates with unwavering stability.'"
+EXPECTED_INPUT:"cube,sphere,pyramid,octahedron"
+PROMPT:">> Which shape embodies stable resonance?"
+WAIT:0

@@ -1,0 +1,11 @@
+COLOR:"34"
+TEXT:"The symbolic sequence dissolves, and the essence of the alien presence converges into a single, final question."
+WAIT:4000
+TEXT:"The alien thought resonates with the weight of the entire encounter:"
+WAIT:4500
+COLOR:"31"
+TEXT:"Consider all that you have perceived: the stable direction, the unwavering tone, the consistent rhythm, the unbroken pattern, the singular resonance."
+TEXT:"Identify the underlying principle that connects these elements of stability and consistency."
+EXPECTED_INPUT:"change,stillness,flow,vibration"
+PROMPT:">> Enter the principle of stability."
+WAIT:0

@@ -1,0 +1,16 @@
+COLOR:"34"
+TEXT:"The shifting symbols fade, leaving a sense of fragmented understanding. The alien presence probes your memory."
+WAIT:4000
+TEXT:"A series of sensory echoes washes over you:"
+WAIT:4500
+COLOR:"31"
+TEXT:"ECHO 1: The faint scent of ozone."
+TEXT:"ECHO 2: A low, resonant hum."
+TEXT:"ECHO 3: The fleeting glimpse of a spiraling line."
+TEXT:"ECHO 4: The feeling of cold, smooth metal."
+TEXT:"ECHO 5: A sharp, intermittent click."
+TEXT:"ECHO 6: The taste of something metallic."
+TEXT:"The alien thought echoes: 'Identify the sensory echo most consistently associated with our presence.'"
+EXPECTED_INPUT:"ozone,hum,spiral,metal,click,metallic"
+PROMPT:">> Enter the keyword of the consistent echo."
+WAIT:0

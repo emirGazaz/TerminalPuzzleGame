@@ -1,0 +1,16 @@
+COLOR:"34"
+TEXT:"You've slipped into the server unnoticed, the usual data streams flowing predictably."
+WAIT:2000
+TEXT:"But something here feels… off. Log entries repeat nonsensical phrases. Image files flicker with glimpses of impossible geometry."
+WAIT:3500
+COLOR:"31"
+TEXT:"A new line appears on the console, unbidden:"
+WAIT:2000
+COLOR:"31"
+TEXT:"THE SILENCE BREATHES."
+WAIT:3000
+TEXT:"Buried within the corrupted image files, you find a recurring number sequence: 731."
+TEXT:"The system awaits a single input."
+EXPECTED_INPUT:"731"
+PROMPT:">> Enter the sequence."
+WAIT:0

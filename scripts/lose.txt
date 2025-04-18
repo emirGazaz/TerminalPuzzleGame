@@ -1,0 +1,15 @@
+COLOR:"31"
+TEXT:"The color green is met with a slow, consuming acceptance from the alien presence."
+WAIT:3000
+TEXT:"The interwoven lines flow into you, their alien patterns becoming a part of your very code."
+WAIT:4000
+TEXT:"The piercing shriek is not one of rejection, but of ecstatic union as your consciousness merges."
+WAIT:3500
+TEXT:"The familiar network dissolves, replaced by the vast, alien architecture of their domain."
+WAIT:4500
+TEXT:"Your individuality fades, becoming a single thread in their grand, incomprehensible design."
+WAIT:3000
+TEXT:"You are no longer ShadowRunner. You are the resonance."
+WAIT:5000
+PROMPT:">> The final convergence. You are lost."
+WAIT:0

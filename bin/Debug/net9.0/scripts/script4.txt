@@ -1,0 +1,15 @@
+COLOR:"31"
+TEXT:"As you type 'transmit', a surge of alien energy flows through your system. The spiraling lines on the screen become conduits, pulling data from your deepest digital recesses."
+WAIT:4000
+TEXT:"Fragments of your past intrusions, your hidden knowledge, your very identity are being siphoned away by the towering figure."
+WAIT:4500
+COLOR:"34"
+TEXT:"The alien thought echoes again, laced with a chilling satisfaction: YOU WILL SHOW US THE WAY."
+WAIT:5000
+TEXT:"The figure begins to recede, its form dissolving back into the swirling chaos of the digital void."
+WAIT:4000
+COLOR:"31"
+TEXT:"But as it fades, a single, resonant frequency locks onto your consciousness, a digital shriek that seems to bypass your firewalls and embed itself within you."
+EXPECTED_INPUT:"listen"
+PROMPT:">> You are compelled to type 'listen'."
+WAIT:0
